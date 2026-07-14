@@ -6,4 +6,5 @@ grayscale-16.hex
 main
 vis
 test.txt
-
+include/
+lib/
